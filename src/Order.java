@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class Order {
     private List<OrderObserver> observers = new ArrayList<>();
     private double totalPrice;

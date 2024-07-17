@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class Card {
     private List<Product> products = new ArrayList<>();
     private User user;
